@@ -1,0 +1,165 @@
+{
+    "Le Packaging": [
+        {
+            "label": "Boite premium couleurs vives 📦",
+            "image": "colored_package.png",
+            "description": "Packaging en carton blanchi puis coloré, composé 90% de matériaux recyclés et entièrement recyclable",
+            "ht10": 460.32,
+            "ttc10": 552.38,
+            "ht25": 460.32,
+            "ttc25": 552.38,
+            "ht50": 631.68,
+            "ttc50": 758.01,
+            "ht100": 876.96,
+            "ttc100": 1052.32
+        },
+        {
+            "label": "Boite avec impressions noir 📦",
+            "image": "black_package.png",
+            "description": "Packaging en carton kraft avec impressions noir, composé 90% de matériaux recyclés et entièrement recyclable",
+            "ht10": 182.28,
+            "ttc10": 218.73,
+            "ht25": 182.28,
+            "ttc25": 218.73,
+            "ht50": 227.64,
+            "ttc50": 273.16,
+            "ht100": 406.56,
+            "ttc100": 487.87
+        }
+    ],
+    "Les objets": [
+        {
+            "label": "Nerf 🔫",
+            "image": "nerf.png",
+            "description": "Nerf Elite officiel avec 3 flechettes, possibilité d'inscrire le nom sur les flechettes pour ne plus les perdre\nPour une ambiance détente, les nerfs vont créer un esprit amicale et de compétition dans vos équipes",
+            "ht10": 93.24,
+            "ttc10": 111.88,
+            "ht25": 231,
+            "ttc25": 277.2,
+            "ht50": 462,
+            "ttc50": 554.4,
+            "ht100": 924,
+            "ttc100": 1108.8
+        },
+        {
+            "label": "Raquettes de plages 🏓",
+            "image": "raquettes.png",
+            "description": "2 Raquettes de plages accompagné d'une balle\nIdéallement accompagné d'un Flyer en donnant une heure de rendez vous pour exercer une parti avec un manager !",
+            "ht50": 237.93,
+            "ttc50": 285.51,
+            "ht100": 340.13,
+            "ttc100": 408.15
+        },
+        {
+            "label": "Cadre de mots mélés 🖼️",
+            "image": "cadre.png",
+            "description": "Cadre de mots mélés permettant d'allier décoration et engagement\nIl permettera à vos recrues de comprendre de façon ludique les differents aspects de la société et pourra accrocher l'oeuvre au dessus de son bureau",
+            "ht10": 52.64,
+            "ttc10": 63.16,
+            "ht25": 131.6,
+            "ttc25": 157.92,
+            "ht50": 239.4,
+            "ttc50": 287.28,
+            "ht100": 478.8,
+            "ttc100": 574.56
+        },
+        {
+            "label": "Casquette 🧢",
+            "image": "casquette.png",
+            "description": "Casquette à 5 panneaux, disponible en Blanc, Beige, Noir, Rouge et Gris\nQuand toute l'équipe vient avec la même casquette, le team building peut enfin commencer...",
+            "ht10": 38.08,
+            "ttc10": 45.69,
+            "ht25": 80.85,
+            "ttc25": 97.02,
+            "ht50": 146.3,
+            "ttc50": 175.56,
+            "ht100": 268.8,
+            "ttc100": 322.56
+        },
+        {
+            "label": "Carnet recyclé + crayon 📓",
+            "image": "carnet.png",
+            "description": "Carnet écologiques et conçus en matériau recyclé, disponible en Noir, Bleu, Vert,Orange et Rouge\nUn classique mais non pas inutile, vous avez compris le concept",
+            "ht50": 158.13,
+            "ttc50": 189.75,
+            "ht100": 193.13,
+            "ttc100": 231.75
+        },
+        {
+            "label": "Tote bag 🛍️",
+            "image": "totebag.png",
+            "description": "Toujours pratique, et permet de montrer a tout le monde quelle équipe on supporte, même en faisant les courses",
+            "ht50": 174.93,
+            "ttc50": 209.91,
+            "ht100": 211.33,
+            "ttc100": 253.59
+        },
+        {
+            "label": "Sac a dos 🎒",
+            "image": "sac.png",
+            "description": "Sac à dos de taille 40 x 44 x 48 cm\nTrès agréable a porter il unifira les couleurs de vos équipe",
+            "ht10": 186.13,
+            "ttc10": 223.35,
+            "ht25": 422.73,
+            "ttc25": 507.27,
+            "ht50": 811.93,
+            "ttc50": 974.31,
+            "ht100": 1604.33,
+            "ttc100": 1925.19
+        }
+    ],
+    "Les +": [
+        {
+            "label": "Flyers 🧾",
+            "image": "A4.png",
+            "description": "Flyers de toutes tailles possibles, personnalisable par salarié \nAjoutez un max d'informations possible dans votre package. Cela permettera a la recrue de ne pas être perdu !",
+            "ht10": 4.76,
+            "ttc10": 5.71,
+            "ht25": 11.9,
+            "ttc25": 14.28,
+            "ht50": 23.8,
+            "ttc50": 28.56,
+            "ht100": 29.4,
+            "ttc100": 35.28
+        },
+        {
+            "label": "Stickers 💮",
+            "image": "stickers.png",
+            "description": "Toute forme et tout taille possible\nDes stickers, partout partout partout, tout le monde adore coller des stickers partout alors laissez les porter fierement votre logo !",
+            "ht10": 10.612,
+            "ttc10": 12.73,
+            "ht25": 26.53,
+            "ttc25": 31.83,
+            "ht50": 26.95,
+            "ttc50": 32.34,
+            "ht100": 27.93,
+            "ttc100": 33.51
+        }
+    ],
+    "Livraison": [
+        {
+            "label": "A domicile 🏡",
+            "description": "Livraison en 2 jours ouvrés dans vos locaux ou chez la recrue",
+            "ht10": 111.3,
+            "ttc10": 133.56,
+            "ht25": 278.25,
+            "ttc25": 333.9,
+            "ht50": 556.5,
+            "ttc50": 667.8,
+            "ht100": 1113.0,
+            "ttc100": 1335.6
+        },
+        {
+            "label": "En relais colis 🏤",
+            "description": "Livraison en 2 jours ouvrés dans un point relais séléctionner, près de vos locaux ou près de chez la recrue",
+            "ht10": 74.2,
+            "ttc10": 89.04,
+            "ht25": 185.5,
+            "ttc25": 222.6,
+            "ht50": 371.0,
+            "ttc50": 445.2,
+            "ht100": 742.0,
+            "ttc100": 890.4
+        }
+    ]
+}
